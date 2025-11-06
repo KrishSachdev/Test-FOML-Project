@@ -1,0 +1,5 @@
+{
+  "name": "Automated Promo Video Generator",
+  "description": "An AI-powered tool that analyzes a long video and generates a 'shot list' of the most engaging clips to create a short, promotional video. It suggests timestamps, describes the action, and recommends visual effects.",
+  "requestFramePermissions": []
+}
